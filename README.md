@@ -22,6 +22,17 @@ I focus on building reliable automation that saves time, reduces manual work and
 
 ---
 
+## 💡 My Philosophy
+
+> The best automation starts with one simple question:  
+> **Why am I doing this manually?**
+
+Laziness is often the starting point of progress.
+
+I believe repetitive work should be done by software, leaving people free to solve real problems, build better tools and focus on what really matters.
+
+---
+
 ## 🛠 Technologies
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -49,6 +60,26 @@ AI-powered Google Apps Script solution for:
 
 ---
 
+### 🎙 Audio Voice Extractor
+
+Python tool for detecting and extracting speech segments from audio recordings using WebRTC VAD, FFmpeg and pydub.
+
+Status: Preparing for public release.
+
+### 🎙 Audio Transcription Engine
+
+Python-based AI transcription workflow using Faster-Whisper, VAD filtering and automated DOCX report generation.
+
+Status: Preparing for public release.
+
+### 🎥 CCTV Video Optimizer
+
+Python-based video processing tool for detecting motion and audio activity in CCTV recordings and removing inactive segments.
+
+Status: Preparing for public release.
+
+---
+
 ### 📊 Declaratie Analyzer
 
 Coming soon
@@ -72,15 +103,38 @@ Collection of AI-powered automation tools currently in development.
 
 ---
 
+## 🚀 Currently Building
+
+📄 Declaratie Analyzer
+
+🤖 AI Workflow Utilities
+
+☁ Google Workspace Integrations
+
+---
+
+## 📚 Currently Learning
+
+🐍 Python
+
+🐳 Docker
+
+⚙ Laravel
+
+🌐 Vue.js
+
+---
+
 ## 💼 Experience
 
 ### Automation Engineer
 
 Building AI-powered workflow solutions for municipal administration using Google Workspace and OpenAI.
 
-### IT Infrastructure Engineer
+### Infrastructure Engineer
 
-6+ years designing, deploying and maintaining secure banking infrastructure and enterprise network systems.
+6+ years designing, installing and maintaining low-voltage infrastructure for banking facilities, including CCTV systems, access control sensors, motion detectors, structured cabling and server-room connectivity.
+This background naturally evolved into software automation projects focused on video analysis, audio transcription, document processing and AI-powered workflow automation.
 
 ---
 ## 📊 GitHub Statistics
