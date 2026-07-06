@@ -94,12 +94,15 @@ Collection of AI-powered automation tools currently in development.
 
 ---
 
-## 🎯 Current Focus
+🎯 Current Focus
 
-- 🤖 AI Workflow Automation
-- 📄 Declaratie Analyzer
-- ☁ Google Workspace Integrations
-- 🚀 Open Source Development
+• AI-powered workflow automation
+
+• Google Workspace integrations
+
+• Audio & Video AI processing
+
+• Open Source engineering
 
 ---
 
@@ -113,15 +116,15 @@ Collection of AI-powered automation tools currently in development.
 
 ---
 
-## 📚 Currently Learning
+📚 Currently Learning
 
-🐍 Python
+• Backend development with Laravel
 
-🐳 Docker
+• Frontend applications using Vue.js
 
-⚙ Laravel
+• Docker for deployment
 
-🌐 Vue.js
+• Advanced Python for AI automation
 
 ---
 
