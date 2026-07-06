@@ -1,16 +1,98 @@
-## Hi there 👋
+# Hi, I'm Denys 👋
 
-<!--
-**DorianGray-web/DorianGray-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineer based in the Netherlands 🇳🇱
 
-Here are some ideas to get you started:
+I build practical workflow automation solutions using Google Apps Script, JavaScript, Google Workspace and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to transform repetitive business processes into intelligent, reliable automation that saves time and reduces manual work.
+
+---
+
+## 👨‍💻 About Me
+
+I enjoy solving real-world business problems by combining:
+
+- Google Apps Script
+- AI APIs
+- Google Workspace
+- JavaScript
+- Cloud Automation
+
+I focus on building reliable automation that saves time, reduces manual work and simplifies everyday business processes.
+
+---
+
+## 🛠 Technologies
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Solutions
+
+### 📄 Generator-Werkbon-GAS
+
+AI-powered Google Apps Script solution for:
+
+- Receipt recognition
+- OpenAI Vision integration
+- Google Drive API automation
+- Professional PDF work order generation
+
+🔗 https://github.com/DorianGray-web/Generator-Werkbon-GAS
+
+---
+
+### 📊 Declaratie Analyzer
+
+Coming soon
+
+Automated declaration processing and reimbursement matching.
+
+---
+
+### 🤖 AI Utilities
+
+Collection of AI-powered automation tools currently in development.
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 AI Workflow Automation
+- 📄 Declaratie Analyzer
+- ☁ Google Workspace Integrations
+- 🚀 Open Source Development
+
+---
+
+## 💼 Experience
+
+### Automation Engineer
+
+Building AI-powered workflow solutions for municipal administration using Google Workspace and OpenAI.
+
+### IT Infrastructure Engineer
+
+6+ years designing, deploying and maintaining secure banking infrastructure and enterprise network systems.
+
+---
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorianGray-web&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorianGray-web&layout=compact&theme=github_dark)
+
+---
+## 📫 Connect with Me
+
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-ostroushko-158307261/)
+- 💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DorianGray-web)
+ 
+
