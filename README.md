@@ -49,22 +49,25 @@ I believe repetitive work should be done by software, leaving people free to sol
 
 ### 📄 Generator-Werkbon-GAS
 
-AI-powered Google Apps Script solution for:
+AI-powered Google Apps Script workflow for receipt recognition and automated PDF work order generation.
 
-- Receipt recognition
-- OpenAI Vision integration
-- Google Drive API automation
-- Professional PDF work order generation
+**Technologies:**
+Google Apps Script • OpenAI Vision • Google Workspace • Google Docs • PDF
 
 🔗 https://github.com/DorianGray-web/Generator-Werkbon-GAS
 
 ---
 
-### 🎙 Audio Voice Extractor
+### 🎙️ Audio Voice Extractor
 
-Python tool for detecting and extracting speech segments from audio recordings using WebRTC VAD, FFmpeg and pydub.
+Python tool for automatic speech detection and voice extraction from long audio recordings using WebRTC VAD, FFmpeg and pydub.
 
-Status: Preparing for public release.
+**Technologies:**
+Python • WebRTC VAD • FFmpeg • pydub
+
+🔗 https://github.com/DorianGray-web/Audio-Voice-Extractor
+
+---
 
 ### 🎙 Audio Transcription Engine
 
