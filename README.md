@@ -45,7 +45,7 @@ I believe repetitive work should be done by software, leaving people free to sol
 
 ---
 
-## 🚀 Featured Solutions
+## 🚀 Open Source Projects
 
 ### 📄 Generator-Werkbon-GAS
 
