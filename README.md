@@ -1,6 +1,6 @@
 # Hi, I'm Denys 👋
 
-Automation Engineer based in the Netherlands 🇳🇱
+Automation Engineer • AI Workflow & Computer Vision based in the Netherlands 🇳🇱
 
 I build practical workflow automation solutions using Google Apps Script, JavaScript, Google Workspace and AI.
 
@@ -12,11 +12,22 @@ My goal is to transform repetitive business processes into intelligent, reliable
 
 I enjoy solving real-world business problems by combining:
 
-- Google Apps Script
-- AI APIs
-- Google Workspace
-- JavaScript
-- Cloud Automation
+☁️ Cloud Automation
+ - Google Apps Script
+ - Google Workspace
+ - OpenAI
+ - JavaScript
+   
+🤖 AI & Computer Vision
+ - Python
+ - OpenCV
+ - Faster-Whisper
+ - Librosa
+ - FFmpeg
+   
+⚙️ Development
+ - Git
+ - Docker
 
 I focus on building reliable automation that saves time, reduces manual work and simplifies everyday business processes.
 
@@ -35,13 +46,17 @@ I believe repetitive work should be done by software, leaving people free to sol
 
 ## 🛠 Technologies
 
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FFA500?style=flat-square&logo=audio&logoColor=white)
+![Faster--Whisper](https://img.shields.io/badge/Faster--Whisper-Microchip?style=flat-square&logo=cpu&logoColor=white&color=2E8B57)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
